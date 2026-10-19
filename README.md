@@ -42,8 +42,3 @@ A web-based application designed for students to manage their academic tasks and
 - setup.php: Database initializer.
 - index.php: Student dashboard.
 
-## Team: 
-
-- Shouq Alanazi (ID: 441003943)
-- Sarah Albulayhid (ID: 441003399)
-- Arjwan Alamri (ID: 441000970)
